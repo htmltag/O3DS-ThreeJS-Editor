@@ -1,0 +1,14 @@
+{
+  "name": "Online3DStudio Three.js Editor",
+  "short_name": "O3dSThreeEditor",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./images/icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
